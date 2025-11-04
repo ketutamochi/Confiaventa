@@ -1,9 +1,8 @@
-// Replace the values below with your real Firebase config from the Firebase console
 const firebaseConfig = {
-  apiKey: "REPLACE_API_KEY",
-  authDomain: "REPLACE_AUTH_DOMAIN",
-  projectId: "REPLACE_PROJECT_ID",
-  storageBucket: "REPLACE_STORAGE_BUCKET",
-  messagingSenderId: "REPLACE_MESSAGING_SENDER_ID",
-  appId: "REPLACE_APP_ID"
+  apiKey: "AIzaSyA8sF8YRT1cq7HQIcnw_lwm3w0vBfhaR3E",
+  authDomain: "confiaventa-392ee.firebaseapp.com",
+  projectId: "confiaventa-392ee",
+  storageBucket: "confiaventa-392ee.firebasestorage.app",
+  messagingSenderId: "790783499901",
+  appId: "1:790783499901:web:9efa2ba9638f72f8ed9b14"
 };
